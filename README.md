@@ -1,2 +1,2 @@
 # bash
-Various Shell Scripts
+Various Shell Scripts I have cobbled together for hobby projects. 
